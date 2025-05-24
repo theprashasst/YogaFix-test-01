@@ -1,0 +1,8 @@
+{
+  "name": "AI Exercise Coach",
+  "description": "A web application that uses your camera to guide you through exercises, providing real-time feedback on your poses. It features pose detection, timed holds, and voice guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
